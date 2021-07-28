@@ -401,7 +401,7 @@
                         </svg>
                         <i class="bx bxs-tree"></i>
                     </div>
-                    <h4><a href="raizes-da-infancia.html">Raízes da Infância</a></h4>
+                    <h4><a href="{{route('raizes.index')}}">Raízes da Infância</a></h4>
                     <p>Dicas super valiosas para os pais lhe darem da melhor forma com as demandas de suas crianaças e adolescentes.</p>
                     </div>
                 </div>
