@@ -5,12 +5,12 @@ body {
   }
 
   a {
-    color: #9dbfaeff;
+    color: #5a6e6f;
     text-decoration: none;
   }
 
   a:hover {
-    color: #9dbfaeff;
+    color: #be8779;
     text-decoration: none;
   }
 
@@ -28,7 +28,7 @@ body {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #9dbfaeff;
+    background: #5a6e6f;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -42,7 +42,7 @@ body {
   }
 
   .back-to-top:hover {
-    background: #9d7f87ff;
+    background: #be8779;
     color: #fff;
   }
 
@@ -70,7 +70,7 @@ body {
     position: fixed;
     top: calc(50% - 30px);
     left: calc(50% - 30px);
-    border: 6px solid #9dbfaeff;
+    border: 6px solid #5a6e6f;
     border-top-color: #fff;
     border-bottom-color: #fff;
     border-radius: 50%;
@@ -195,7 +195,7 @@ body {
 
   .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
     color: #fff;
-    background: #9dbfaeff;
+    background: #5a6e6f;
   }
 
   .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
@@ -244,7 +244,7 @@ body {
 
   .mobile-nav-active .mobile-nav-toggle {
     color: #fff;
-    background-color: #9dbfaeff;
+    background-color: #5a6e6f;
   }
 
   /*--------------------------------------------------------------
@@ -290,7 +290,7 @@ body {
   }
 
   #hero p span {
-    color: #9dbfaeff;
+    color: #5a6e6f;
     letter-spacing: 1px;
   }
 
@@ -308,7 +308,7 @@ body {
   }
 
   #hero .social-links a:hover {
-    color: #9dbfaeff;
+    color: #5a6e6f;
   }
 
   @media (max-width: 992px) {
@@ -366,7 +366,7 @@ body {
     display: block;
     width: 40px;
     height: 3px;
-    background: #9dbfaeff;
+    background: #5a6e6f;
     bottom: 0;
     left: calc(50% - 20px);
   }
@@ -402,7 +402,7 @@ body {
   .about .content ul i {
     font-size: 16px;
     margin-right: 5px;
-    color: #9dbfaeff;
+    color: #5a6e6f;
     line-height: 0;
   }
 
@@ -428,7 +428,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     font-size: 24px;
-    background: #9dbfaeff;
+    background: #5a6e6f;
     color: #fff;
     border-radius: 50px;
     display: inline-flex;
@@ -485,7 +485,7 @@ body {
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #9dbfaeff;
+    background-color: #5a6e6f;
   }
 
   /*--------------------------------------------------------------
@@ -502,7 +502,7 @@ body {
   .resume .resume-item {
     padding: 0 0 20px 20px;
     margin-top: -2px;
-    border-left: 2px solid #9dbfaeff;
+    border-left: 2px solid #5a6e6f;
     position: relative;
   }
 
@@ -512,7 +512,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
-    color: #9dbfaeff;
+    color: #5a6e6f;
     margin-bottom: 10px;
   }
 
@@ -546,7 +546,7 @@ body {
     left: -9px;
     top: 0;
     background: #fff;
-    border: 2px solid #9dbfaeff;
+    border: 2px solid #5a6e6f;
   }
 
   /*--------------------------------------------------------------
@@ -580,7 +580,7 @@ body {
   }
 
   .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-    color: #9dbfaeff;
+    color: #5a6e6f;
   }
 
   .portfolio #portfolio-flters li:last-child {
@@ -726,11 +726,11 @@ body {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #9dbfaeff;
+    border: 1px solid #5a6e6f;
   }
 
   .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #9dbfaeff;
+    background-color: #5a6e6f;
   }
 
   .portfolio-details .portfolio-info {
@@ -832,7 +832,7 @@ body {
   }
 
   .services .iconbox-blue i {
-    color: #9dbfaeff;
+    color: #5a6e6f;
   }
 
   .services .iconbox-blue:hover .icon i {
@@ -935,7 +935,7 @@ body {
   }
 
   .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-    color: #9dbfaeff;
+    color: #5a6e6f;
     font-size: 26px;
   }
 
@@ -967,11 +967,11 @@ body {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #9dbfaeff;
+    border: 1px solid #5a6e6f;
   }
 
   .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #9dbfaeff;
+    background-color: #5a6e6f;
   }
 
   @media (min-width: 992px) {
@@ -990,7 +990,7 @@ body {
 
   .contact .info i {
     font-size: 20px;
-    color: #9dbfaeff;
+    color: #5a6e6f;
     float: left;
     width: 44px;
     height: 44px;
@@ -1022,7 +1022,7 @@ body {
   }
 
   .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-    background: #9dbfaeff;
+    background: #5a6e6f;
     color: #fff;
   }
 
@@ -1038,7 +1038,7 @@ body {
   .contact .php-email-form .error-message {
     display: none;
     color: #fff;
-    background: #9d7f87ff;
+    background: #be8779;
     text-align: left;
     padding: 15px;
     font-weight: 600;
@@ -1092,7 +1092,7 @@ body {
   }
 
   .contact .php-email-form button[type="submit"] {
-    background: #9dbfaeff;
+    background: #5a6e6f;
     border: 0;
     padding: 10px 35px;
     color: #fff;
@@ -1101,7 +1101,7 @@ body {
   }
 
   .contact .php-email-form button[type="submit"]:hover {
-    background: #9d7f87ff;
+    background: #be8779;
   }
 
   @-webkit-keyframes animate-loading {
@@ -1156,7 +1156,7 @@ body {
   #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #9dbfaeff;
+    background: #5a6e6f;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -1169,7 +1169,7 @@ body {
   }
 
   #footer .social-links a:hover {
-    background: #9d7f87ff;
+    background: #be8779;
     color: #fff;
     text-decoration: none;
   }

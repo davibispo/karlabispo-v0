@@ -73,8 +73,8 @@
             <p>Eu <span class="typed" data-typed-items="sou Mãe., estou Psicóloga."></span></p>
             <div class="social-links">
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+                <a href="https://www.instagram.com/raizesdainfancia/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5582993487949" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
 
             </div>
             </div>
@@ -93,7 +93,7 @@
 
                 <div class="row">
                 <div class="col-lg-4">
-                    <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/imgkb/imagem1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content">
                     <h3>Psicóloga</h3>
@@ -104,7 +104,6 @@
                     <div class="row">
                     <div class="col-lg-6">
                         <ul>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Nascimento:</strong> <span>26 de Abril</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.karlabispo.com.br</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Telefone:</strong> <span>(82) 99348-7949</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Cidade:</strong> <span>Maceió, AL</span></li>
@@ -112,7 +111,6 @@
                     </div>
                     <div class="col-lg-6">
                         <ul>
-                        <li><i class="bi bi-chevron-right"></i> <strong>Idade:</strong> <span>36</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>Grau escolar:</strong> <span>Pós graduada</span></li>
                         <li><i class="bi bi-chevron-right"></i> <strong>E-mail:</strong> <span>karlabispo.psi@hotmail.com</span></li>
                         </ul>
@@ -235,9 +233,9 @@
 
                 <div class="section-title">
                 <h2>Loja</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>Em desenvolvimento...</p>
                 </div>
-
+                <!--
                 <div class="row">
                 <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <ul id="portfolio-flters">
@@ -378,7 +376,7 @@
                 </div>
 
                 </div>
-
+                -->
             </div>
             </section><!-- End Portfolio Section -->
 
@@ -634,8 +632,8 @@
             <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
             <div class="social-links">
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+                <a href="https://www.instagram.com/raizesdainfancia/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5582993487949" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
             </div>
             <div class="copyright">
                 &copy; Copyright <strong><span>Karla Bispo</span></strong>. Todos os direitos reservados
