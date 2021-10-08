@@ -93,7 +93,7 @@
 
                 <div class="row">
                 <div class="col-lg-4">
-                    <img src="assets/img/imgkb/image3-degrade.png" class="img-fluid" alt="">
+                    <img src="assets/img/imgkb/image3-duplicado.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content">
                     <h3>Psicóloga</h3>
@@ -474,7 +474,7 @@
             </div>
             </section><!-- End Services Section -->
 
-            <!-- ======= Testimonials Section ======= -->
+            <!-- ======= Testimonials Section ======= --><!--
             <section id="testimonials" class="testimonials section-bg">
             <div class="container" data-aos="fade-up">
 
@@ -496,7 +496,7 @@
                         <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                     <div class="testimonial-item">
@@ -509,7 +509,7 @@
                         <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                     <div class="testimonial-item">
@@ -522,7 +522,7 @@
                         <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                     <div class="testimonial-item">
@@ -535,7 +535,7 @@
                         <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                     <div class="testimonial-item">
@@ -548,14 +548,14 @@
                         <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                 </div>
                 <div class="swiper-pagination"></div>
                 </div>
 
             </div>
-            </section><!-- End Testimonials Section -->
+            </section>--><!-- End Testimonials Section -->
 
             <!-- ======= Contact Section ======= -->
             <section id="contact" class="contact">
@@ -634,6 +634,8 @@
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="https://www.instagram.com/raizesdainfancia/" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5582993487949" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+                <a href="#" class="telegram"><i class="bx bxl-telegram"></i></a>
+
             </div>
             <div class="copyright">
                 &copy; Copyright <strong><span>Karla Bispo</span></strong>. Todos os direitos reservados
