@@ -126,107 +126,6 @@
             </div>
             </section><!-- End About Section -->
 
-            <!-- ======= Facts Section ======= --><!--
-            <section id="facts" class="facts">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                <h2>Fatos</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-                </div>
-
-                <div class="row">
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                    <p>Happy Clients</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-                    <div class="count-box">
-                    <i class="bi bi-journal-richtext"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                    <p>Projetos</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                    <div class="count-box">
-                    <i class="bi bi-headset"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                    <p>Hours Of Support</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                    <div class="count-box">
-                    <i class="bi bi-award"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
-                    <p>Awards</p>
-                    </div>
-                </div>
-
-                </div>
-
-            </div>
-            </section>--><!-- End Facts Section -->
-
-            <!-- ======= Skills Section ======= --><!--
-            <section id="skills" class="skills section-bg">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                <h2>Habilidades</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-                </div>
-
-                <div class="row skills-content">
-
-                <div class="col-lg-6">
-
-                    <div class="progress">
-                    <span class="skill">Psicoterapia para Crianças e Adolescentes <i class="val">100%</i></span>
-                    <div class="progress-bar-wrap">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    </div>
-
-                    <div class="progress">
-                    <span class="skill">Palestrante <i class="val">90%</i></span>
-                    <div class="progress-bar-wrap">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6">
-
-                    <div class="progress">
-                    <span class="skill">Atendimento clínico <i class="val">100%</i></span>
-                    <div class="progress-bar-wrap">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    </div>
-
-                    <div class="progress">
-                    <span class="skill">Influenciadora <i class="val">90%</i></span>
-                    <div class="progress-bar-wrap">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                    </div>
-
-                </div>
-
-                </div>
-
-            </div>
-            </section>--><!-- End Skills Section -->
-
-
             <!-- ======= Loja ======= -->
             <section id="portfolio" class="portfolio section-bg">
             <div class="container" data-aos="fade-up">
@@ -412,7 +311,7 @@
                         </svg>
                         <i class="bx bx-microphone"></i>
                     </div>
-                    <h4><a href="">Palestras</a></h4>
+                    <h4><a href="{{route('palestras.index')}}">Palestras</a></h4>
                     <p>Conteúdo disponibilizado para ser apresentado para grupos de pessoas que desejam desenvolver a capacidade de educar seus filhos da melhor forma.</p>
                     </div>
                 </div>
@@ -425,7 +324,7 @@
                         </svg>
                         <i class="bx bx-clinic"></i>
                     </div>
-                    <h4><a href="">Atendimento clínico</a></h4>
+                    <h4><a href="{{route('clinica.index')}}">Atendimento clínico</a></h4>
                     <p>Tempo precioso de escuta e instrução para superar dificuldades da crianças e adolescentes.</p>
                     </div>
                 </div>
@@ -474,88 +373,6 @@
             </div>
             </section><!-- End Services Section -->
 
-            <!-- ======= Testimonials Section ======= --><!--
-            <section id="testimonials" class="testimonials section-bg">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                <h2>Depoimentos</h2>
-                </div>
-
-                <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
-                        <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
-                        <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                        <h3>Jena Karlis</h3>
-                        <h4>Store Owner</h4>
-                        <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                        <h3>Matt Brandon</h3>
-                        <h4>Freelancer</h4>
-                        <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                        <h3>John Larson</h3>
-                        <h4>Entrepreneur</h4>
-                        <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-                    </div>
-
-                </div>
-                <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-            </section>--><!-- End Testimonials Section -->
 
             <!-- ======= Contact Section ======= -->
             <section id="contact" class="contact">
@@ -641,10 +458,6 @@
                 &copy; Copyright <strong><span>Karla Bispo</span></strong>. Todos os direitos reservados
             </div>
             <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you purchased the pro version. -->
-                <!-- Licensing information: [license-url] -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> | Desenvolvido por <a href="#">davibispo.com.br</a>
             </div>
             </div>

@@ -120,7 +120,7 @@
                   Ad impedit qui officiis est in non aliquid veniam laborum. Id ipsum qui aut. Sit aliquam et quia molestias laboriosam. Tempora nam odit omnis eum corrupti qui aliquid excepturi molestiae. Facilis et sint quos sed voluptas. Maxime sed tempore enim omnis non alias odio quos distinctio.
                 </p>
                 <div class="read-more">
-                  <a href="blog-single.html">Leia Mais</a>
+                  <a href="#">Leia Mais</a>
                 </div>
               </div>
 
