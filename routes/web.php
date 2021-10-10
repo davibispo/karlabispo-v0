@@ -10,9 +10,11 @@ use App\Http\Controllers\{
     LojaController,
     PalestrasController,
     VideosController,
+    CursosController,
 };
 use Illuminate\Support\Facades\Route;
 
+Route::resource('cursos', CursosController::class);
 Route::resource('videos', VideosController::class);
 Route::resource('palestras', PalestrasController::class);
 Route::resource('loja', LojaController::class);
