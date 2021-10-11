@@ -11,9 +11,11 @@ use App\Http\Controllers\{
     PalestrasController,
     VideosController,
     CursosController,
+    PostController,
 };
 use Illuminate\Support\Facades\Route;
 
+Route::resource('posts', PostController::class);
 Route::resource('cursos', CursosController::class);
 Route::resource('videos', VideosController::class);
 Route::resource('palestras', PalestrasController::class);

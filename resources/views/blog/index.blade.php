@@ -42,7 +42,7 @@
 
         <nav id="navbar" class="navbar nav-menu">
         <ul>
-            <li><a href="{{route('site.index')}}#hero" class="nav-link scrollto"><i class="bx bx-home"></i> <span>Início</span></a></li>
+            <li><a href="{{route('site.index')}}" class="nav-link scrollto"><i class="bx bx-home"></i> <span>Início</span></a></li>
             <li><a href="{{route('site.index')}}#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Sobre mim</span></a></li>
             <!--<li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>-->
             <li><a href="{{route('site.index')}}#portfolio" class="nav-link scrollto"><i class="bx bx-store"></i> <span>Loja</span></a></li>

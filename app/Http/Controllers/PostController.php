@@ -3,9 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
 
-class BlogController extends Controller
+class PostController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +13,7 @@ class BlogController extends Controller
      */
     public function index()
     {
-        return view('blog.index');
+        //
     }
 
     /**
@@ -24,7 +23,7 @@ class BlogController extends Controller
      */
     public function create()
     {
-        
+        return view('posts.create');
     }
 
     /**
