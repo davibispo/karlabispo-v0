@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
 
 class BlogController extends Controller
 {
@@ -24,7 +23,7 @@ class BlogController extends Controller
      */
     public function create()
     {
-        
+
     }
 
     /**
