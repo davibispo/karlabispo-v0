@@ -23,7 +23,7 @@ class LojaController extends Controller
      */
     public function create()
     {
-        //
+        return view('loja.create');
     }
 
     /**

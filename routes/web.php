@@ -26,6 +26,13 @@ Route::resource('clinica', ClinicaController::class);
 Route::resource('blog', BlogController::class);
 Route::resource('site', SiteController::class);
 Route::resource('raizes', RaizesController::class);
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
+
 Route::get('/', function () {
     return view('welcome');
 });
+
+require __DIR__.'/auth.php';

@@ -1,17 +1,17 @@
-@extends('layout.app')
+@extends('layout.form')
 
 @section('content')
-
+    
     <section id="services" class="services">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>BLOG - CRIAR POST</h2>
-                <p>Criação de post para o Blog.</p>
+                <h2>CRIAR UM NOVO POST</h2>
+                <p>Preencha corretamente os campos para adicionar uma nova postagem.</p>
             </div>
 
             <div class="row">
-                
+
             </div>
 
         </div>
